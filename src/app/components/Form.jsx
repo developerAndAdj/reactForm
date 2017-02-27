@@ -23,6 +23,8 @@ export default class SimpleForm extends React.Component {
 				<TextInputLabel label="* Zip Code" inputName="zipCode" />
 
 				<FormSectionHeading sectionHeading="Points of Contact" />
+
+				<FormSectionHeading sectionHeading="How can the general public contact your organization?" />
 			</form>
 		);
 	}
