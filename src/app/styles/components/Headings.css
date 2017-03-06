@@ -1,0 +1,7 @@
+/* Headings */
+
+@custom-selector :--titleHeadings h2, h3;
+
+:--titleHeadings {
+    text-decoration: underline;
+}
